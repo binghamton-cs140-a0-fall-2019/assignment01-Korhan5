@@ -16,13 +16,31 @@ public class SimpleDate {
 
 		yr = year;
 		m = month ;
-		d = day ; 
+		d = day ;
 
 
 
   }
 
+		public static SimpleDate of(int yr, int m, int d){
+
+			SimpleDate returnValue = new SimpleDate(yr,m, d);
+			return returnValue ;
 
 
+		}
 
-  }
+	public boolean before(SimpleDate other){
+
+		if(this.yr < other.yr){
+			return true ;
+		}else if(this.m < other.m){
+			return true ;
+		} else if(this.d < other.d){
+			return true ;
+		}else{
+			return false ;
+		}
+		}
+
+		}

@@ -116,7 +116,7 @@ public class DateAndPlaceOfBirth {
 	int otherday = other.dateOfBirth.getDayOfMonth();
 	int month = dateOfBirth.getMonthValue();
 	int othermonth = other.dateOfBirth.getMonthValue();
-	if(day == otherday & month == othermonth){
+	if(day == otherday && month == othermonth){
 		return true ;
 	}else{
 		return false ;

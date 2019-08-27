@@ -30,3 +30,9 @@ TESTS FOR StreetUSAddress.java:
 TESTS FOR PersonTester.java:
 
 TESTS FOR StreetUSAddress.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR StreetUSAddress.java:
+
+TESTS FOR StreetUSAddress.java:

@@ -68,11 +68,11 @@ public class Person {
 	}
 // TODO provide the getter methods for placeDob and address
 	public String getplaceDob() {
-		return placeDob ;
+		return placeDob.toString() ;
 	}
 
 	public String getaddress() {
-		return address ;
+		return address.toString() ;
 	}
 // TODO Override the public String toString() method that is similar to the
 // toString of the StreetUSAddress class and will print a person as:
@@ -83,7 +83,7 @@ public class Person {
 // Binghamton, NY 13905
 		@Override
 		public String toString() {
-			return String.format(firstNames + " " + lastNames, + " (" + ssn + ")", "\n", "Date and place of birth: " + placeDob + ", " + address
+			return String.format(firstNames + " " + lastNames + " (" + ssn + ")" + "\n" + "Date and place of birth: " + placeDob + ", " + address
 					);
 
 }

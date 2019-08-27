@@ -1,0 +1,32 @@
+
+TESTS FOR Computer.java:
+dell, na, 4GB Memory, 1.0TB Solid State Drive, Price: $1000.00 
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $900.00 
+dell, na, 4GB Memory, 500GB Solid State Drive, Price: $500.00 
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $400.00 
+
+TESTS FOR Computer.java:
+dell, na, 4GB Memory, 1.0TB Solid State Drive, Price: $1000.00 
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $900.00 
+dell, na, 4GB Memory, 500GB Solid State Drive, Price: $500.00 
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $400.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR DateAndPlaceOfBirth.java:
+
+TESTS FOR StreetUSAddress.java:
+
+TESTS FOR PersonTester.java:
+
+TESTS FOR StreetUSAddress.java:

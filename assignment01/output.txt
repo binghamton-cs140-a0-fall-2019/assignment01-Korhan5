@@ -1,38 +1,71 @@
 
 TESTS FOR Computer.java:
-dell, na, 4GB Memory, 1.0TB Solid State Drive, Price: $1000.00 
-dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $900.00 
-dell, na, 4GB Memory, 500GB Solid State Drive, Price: $500.00 
-dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $400.00 
+dell, na, 4GB Memory, 1.0TB Solid State Drive, Price: $1000.00
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $900.00
+dell, na, 4GB Memory, 500GB Solid State Drive, Price: $500.00
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $400.00
 
 TESTS FOR Computer.java:
-dell, na, 4GB Memory, 1.0TB Solid State Drive, Price: $1000.00 
-dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $900.00 
-dell, na, 4GB Memory, 500GB Solid State Drive, Price: $500.00 
-dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $400.00 
+dell, na, 4GB Memory, 1.0TB Solid State Drive, Price: $1000.00
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $900.00
+dell, na, 4GB Memory, 500GB Solid State Drive, Price: $500.00
+dell, na, 4GB Memory, 2.1TB Hard Drive, Price: $400.00
 
-TESTS FOR DateAndPlaceOfBirth.java:
 
-TESTS FOR DateAndPlaceOfBirth.java:
 
-TESTS FOR DateAndPlaceOfBirth.java:
+TESTS FOR SimpleDate.java:
+true
+true
+false
 
-TESTS FOR DateAndPlaceOfBirth.java:
-
-TESTS FOR DateAndPlaceOfBirth.java:
-
-TESTS FOR DateAndPlaceOfBirth.java:
-
-TESTS FOR DateAndPlaceOfBirth.java:
-
-TESTS FOR StreetUSAddress.java:
+TESTS FOR SimpleDate.java:
+true
+true
+false
 
 TESTS FOR PersonTester.java:
+John Smith (123456789 )
+Date and place of birth: 2000-03-09, Oceanside, NY, US
+2809 Brower Ave
+2nd Floor
+Oceanside, NY 11572
+
+
+
+TESTS FOR ComputerOwner.java:
+Computer List, Owner: Joe Smith (123456789 )
+Date and place of birth: 2000-03-09, Oceanside, NY, US
+2809 Brower Ave
+2nd Floor
+Oceanside, NY 11572
+Computers: [Apple, na, 8GB Memory, 1.0TB Solid State Drive, Price: $1000.00 , Apple, na, 8GB Memory, 2.1TB Hard Drive, Price: $900.00 , Apple, na, 8GB Memory, 500GB Solid State Drive, Price: $500.00 , Apple, na, 8GB Memory, 2.1TB Hard Drive, Price: $400.00 ]
+Computer List, Owner: Joe Smith (123456789 )
+Date and place of birth: 2000-03-09, Oceanside, NY, US
+2809 Brower Ave
+2nd Floor
+Oceanside, NY 11572
+Computers: [Apple, na, 8GB Memory, 1.0TB Solid State Drive, Price: $1000.00 , Apple, na, 8GB Memory, 2.1TB Hard Drive, Price: $900.00 , Apple, na, 8GB Memory, 2.1TB Hard Drive, Price: $400.00 ]
 
 TESTS FOR StreetUSAddress.java:
+2809 Brower Ave
+2nd Floor
+Oceanside, NY 11572
+2809 Brower Ave
+Oceanside, NY 11572
 
 TESTS FOR DateAndPlaceOfBirth.java:
-
-TESTS FOR StreetUSAddress.java:
-
-TESTS FOR StreetUSAddress.java:
+Date and place of birth: 2000-03-09, Oceanside, NY, US
+Date and place of birth: 1999-03-09, Oceanside, NY, US
+Date and place of birth: 2000-03-09, Oceanside, NY, US
+Date and place of birth: 1970-06-22, Kabul, Afghanistan
+Date and place of birth: 1980-02-05, Kabul, Afghanistan
+true
+true
+false
+false
+true
+false
+false
+false
+false
+false
